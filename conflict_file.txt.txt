@@ -1,1 +1,1 @@
-some value = initial value
+some value = A2
