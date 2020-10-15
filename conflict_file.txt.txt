@@ -1,1 +1,1 @@
-some value = A2
+some value = B2
