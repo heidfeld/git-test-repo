@@ -1,1 +1,1 @@
-some value = CHANGE_FROM_BRANCH_A
+some value = CHANGE_FROM_BRANCH_B
