@@ -1,1 +1,1 @@
-some value = INITIAL2
+some value = CHANGE_FROM_BRANCH_A
